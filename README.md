@@ -2,7 +2,7 @@
 
 在mac上可以用指令來切換輸入法
 
-使得有辦法讓nvim離開insert後, 可以自動切換到英文輸入法
+使得有辦法讓nvim離開insert後, 可以[自動切換到英文輸入法](https://github.com/CarsonSlovoka/nvim/commit/d13fa4a9)
 
 
 ## Build & Install
